@@ -1,4 +1,4 @@
-package cursoJava.enumPratice.src.main.enums;
+package CursoJava.EnumPratice.src.main.enums;
 
 public enum OrderStatus {
     PENDING_PAYMENT,

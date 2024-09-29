@@ -1,4 +1,4 @@
-package cursoJava.enumPratice.src.main.entities;
+package CursoJava.EnumPratice.src.main.entities;
 
 public class Product {
     private String name;

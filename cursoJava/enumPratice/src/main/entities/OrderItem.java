@@ -1,4 +1,4 @@
-package cursoJava.enumPratice.src.main.entities;
+package CursoJava.EnumPratice.src.main.entities;
 
 public class OrderItem {
     private Integer quantity;

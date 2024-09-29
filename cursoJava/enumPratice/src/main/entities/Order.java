@@ -1,10 +1,10 @@
-package cursoJava.enumPratice.src.main.entities;
+package CursoJava.EnumPratice.src.main.entities;
 
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
-import cursoJava.enumPratice.src.main.enums.OrderStatus;
+import CursoJava.EnumPratice.src.main.enums.OrderStatus;
 
 public class Order {
     private Date moment;

@@ -1,15 +1,15 @@
-package cursoJava.enumPratice.src.main;
+package CursoJava.EnumPratice.src.main;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Scanner;
 
-import cursoJava.enumPratice.src.main.entities.Client;
-import cursoJava.enumPratice.src.main.entities.Order;
-import cursoJava.enumPratice.src.main.entities.OrderItem;
-import cursoJava.enumPratice.src.main.entities.Product;
-import cursoJava.enumPratice.src.main.enums.OrderStatus;
+import CursoJava.EnumPratice.src.main.entities.Client;
+import CursoJava.EnumPratice.src.main.entities.Order;
+import CursoJava.EnumPratice.src.main.entities.OrderItem;
+import CursoJava.EnumPratice.src.main.entities.Product;
+import CursoJava.EnumPratice.src.main.enums.OrderStatus;
 
 public class Main {
     public static void main(String[] args) throws ParseException {
@@ -47,6 +47,7 @@ public class Main {
             order.addItem(orderItem);
 
         }
+        sc.close();
 
         System.out.println();
 
